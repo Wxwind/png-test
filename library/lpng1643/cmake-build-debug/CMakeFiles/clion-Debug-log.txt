@@ -1,0 +1,18 @@
+C:\Users\wxwind\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/wxwind/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\code_projs\cpp\library\lpng1643 -B D:\code_projs\cpp\library\lpng1643\cmake-build-debug
+-- The C compiler identification is GNU 13.1.0
+-- The ASM compiler identification is GNU
+-- Found assembler: C:/Users/wxwind/AppData/Local/Programs/CLion/bin/mingw/bin/gcc.exe
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Users/wxwind/AppData/Local/Programs/CLion/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+CMake Error at C:/Users/wxwind/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
+  Could NOT find ZLIB (missing: ZLIB_LIBRARY ZLIB_INCLUDE_DIR)
+Call Stack (most recent call first):
+  C:/Users/wxwind/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake:600 (_FPHSA_FAILURE_MESSAGE)
+  C:/Users/wxwind/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.29/Modules/FindZLIB.cmake:199 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+  CMakeLists.txt:99 (find_package)
+
+
+-- Configuring incomplete, errors occurred!

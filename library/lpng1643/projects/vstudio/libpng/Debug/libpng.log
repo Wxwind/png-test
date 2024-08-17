@@ -1,0 +1,628 @@
+﻿  png.c
+  arm_init.c
+D:\code_projs\cpp\library\lpng1643\arm\arm_init.c(16,10): warning C4464: 相对包含路径包括 ".."
+  filter_neon_intrinsics.c
+D:\code_projs\cpp\library\lpng1643\arm\filter_neon_intrinsics.c(14,10): warning C4464: 相对包含路径包括 ".."
+  palette_neon_intrinsics.c
+D:\code_projs\cpp\library\lpng1643\arm\palette_neon_intrinsics.c(13,10): warning C4464: 相对包含路径包括 ".."
+  pngerror.c
+  pngget.c
+  pngmem.c
+  pngpread.c
+  pngread.c
+  pngrio.c
+  pngrtran.c
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(21,1): warning C4574: “PNG_ARM_NEON_IMPLEMENTATION”被定义为“0”: 您是否希望使用“#if PNG_ARM_NEON_IMPLEMENTATION”?
+  pngrutil.c
+  pngset.c
+  pngtrans.c
+  pngwio.c
+  pngwrite.c
+  pngwtran.c
+  pngwutil.c
+    正在创建库 D:\code_projs\cpp\library\lpng1643\projects\vstudio\Debug\libpng16.lib 和对象 D:\code_projs\cpp\library\lpng1643\projects\vstudio\Debug\libpng16.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+D:\code_projs\cpp\library\lpng1643\pngtrans.c(479): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngtrans.c(478) : 注意: 在此行上通过对比检查索引 "rp" 范围
+  D:\code_projs\cpp\library\lpng1643\pngtrans.c(479) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngset.c(1361): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngset.c(1344) : 注意: 在此行上通过对比检查索引 "count" 范围
+  D:\code_projs\cpp\library\lpng1643\pngset.c(1361) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngset.c(1350): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngset.c(1344) : 注意: 在此行上通过对比检查索引 "count" 范围
+  D:\code_projs\cpp\library\lpng1643\pngset.c(1350) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(2248): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(2240) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(2248) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(4360): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(4356) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(4360) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(4334): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(4326) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(4334) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(4119): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(4117) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(4119) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(4060): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(4058) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(4060) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(4034): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(4022) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(4034) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(3990): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3976) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3990) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngmem.c(95): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngmem.c(83) : 注意: 在此行上通过对比检查索引 "size" 范围
+  D:\code_projs\cpp\library\lpng1643\pngmem.c(95) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngmem.c(91): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngmem.c(83) : 注意: 在此行上通过对比检查索引 "size" 范围
+  D:\code_projs\cpp\library\lpng1643\pngmem.c(91) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(3846): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(3818) : 注意: 在此行上通过对比检查索引 "value" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(3846) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(4295): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(4286) : 注意: 在此行上通过对比检查索引 "option" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(4295) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(3506): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(3505) : 注意: 在此行上通过对比检查索引 "r" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(3506) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(3481): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(3480) : 注意: 在此行上通过对比检查索引 "r" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(3481) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(3446): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(3445) : 注意: 在此行上通过对比检查索引 "r" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(3446) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(153): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(141) : 注意: 在此行上通过对比检查索引 "length" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(153) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(70): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(64) : 注意: 在此行上通过对比检查索引 "start" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(70) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(1702): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1684) : 注意: 在此行上通过对比检查索引 "component" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1702) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngmem.c(115): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngmem.c(114) : 注意: 在此行上通过对比检查索引 "req" 范围
+  D:\code_projs\cpp\library\lpng1643\pngmem.c(115) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngerror.c(251): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngerror.c(250) : 注意: 在此行上通过对比检查索引 "number" 范围
+  D:\code_projs\cpp\library\lpng1643\pngerror.c(251) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(1402): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(1396) : 注意: 在此行上通过对比检查索引 "g" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(1402) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngget.c(348): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngget.c(348) : 注意: 在此行上通过对比检查索引 "ppm" 范围
+  D:\code_projs\cpp\library\lpng1643\pngget.c(348) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(1563): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(1539) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(1563) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(1561): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(1539) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(1561) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(3867): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3807) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3867) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\png.c(1559): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(1539) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(1559) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(4133): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(4131) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(4133) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(4122): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(4120) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(4122) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(4100): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(4098) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(4100) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(1556): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(1539) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(1556) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(1554): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(1539) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(1554) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(1552): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(1539) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(1552) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(1549): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(1539) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(1549) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(1547): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(1539) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(1547) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(1545): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(1539) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(1545) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(1514): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(1488) : 注意: 在此行上通过对比检查索引 "blue_scale" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(1514) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(1511): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(1488) : 注意: 在此行上通过对比检查索引 "blue_scale" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(1511) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(1509): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(1488) : 注意: 在此行上通过对比检查索引 "blue_scale" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(1509) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(4143): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(4138) : 注意: 在此行上通过对比检查索引 "filter" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(4143) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(644): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(643) : 注意: 在此行上通过对比检查索引 "row" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(644) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(588): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(587) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(588) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(562): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(559) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(562) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(521): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(520) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(521) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(474): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(473) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(474) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(29): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(26) : 注意: 在此行上通过对比检查索引 "uval" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(29) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(2465): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(2465) : 注意: 在此行上通过对比检查索引 "total" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(2465) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(2982): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(2939) : 注意: 在此行上通过对比检查索引 "fp" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(2982) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(2910): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(2896) : 注意: 在此行上通过对比检查索引 "fp" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(2910) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngmem.c(159): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngmem.c(143) : 注意: 在此行上通过对比检查索引 "add_elements" 范围
+  D:\code_projs\cpp\library\lpng1643\pngmem.c(159) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngmem.c(145): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngmem.c(143) : 注意: 在此行上通过对比检查索引 "add_elements" 范围
+  D:\code_projs\cpp\library\lpng1643\pngmem.c(145) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngpread.c(150): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngpread.c(150) : 注意: 在此行上通过对比检查索引 "num_checked" 范围
+  D:\code_projs\cpp\library\lpng1643\pngpread.c(150) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngmem.c(128): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngmem.c(125) : 注意: 在此行上通过对比检查索引 "nelements" 范围
+  D:\code_projs\cpp\library\lpng1643\pngmem.c(128) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(46): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(45) : 注意: 在此行上通过对比检查索引 "uval" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(46) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(140): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(133) : 注意: 在此行上通过对比检查索引 "length" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(140) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(142): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(142) : 注意: 在此行上通过对比检查索引 "num_checked" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(142) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(2081): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2072) : 注意: 在此行上通过对比检查索引 "r" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2081) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(2005): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2004) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2005) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(1994): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(1993) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(1994) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(2057): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2041) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2057) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(2044): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2041) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2044) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(4077): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(4076) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(4077) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(3291): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(3284) : 注意: 在此行上通过对比检查索引 "r" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(3291) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(280): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(277) : 注意: 在此行上通过对比检查索引 "output_gamma" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(280) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngerror.c(622): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngerror.c(617) : 注意: 在此行上通过对比检查索引 "jmp_buf_size" 范围
+  D:\code_projs\cpp\library\lpng1643\pngerror.c(622) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngset.c(1501): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngset.c(1486) : 注意: 在此行上通过对比检查索引 "old_num_chunks" 范围
+  D:\code_projs\cpp\library\lpng1643\pngset.c(1501) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngset.c(1480): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngset.c(1478) : 注意: 在此行上通过对比检查索引 "num_chunks" 范围
+  D:\code_projs\cpp\library\lpng1643\pngset.c(1480) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1519): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1517) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1519) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(186): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(182) : 注意: 在此行上通过对比检查索引 "length" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(186) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(226): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(216) : 注意: 在此行上通过对比检查索引 "skip" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(226) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(793): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(792) : 注意: 在此行上通过对比检查索引 "read_size" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(793) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(4058): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(4056) : 注意: 在此行上通过对比检查索引 "last" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(4058) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\png.c(4050): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(4048) : 注意: 在此行上通过对比检查索引 "last" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(4050) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\png.c(4043): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(4037) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(4043) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngset.c(506): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngset.c(495) : 注意: 在此行上通过对比检查索引 "height" 范围
+  D:\code_projs\cpp\library\lpng1643\pngset.c(506) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngset.c(535): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngset.c(525) : 注意: 在此行上通过对比检查索引 "height" 范围
+  D:\code_projs\cpp\library\lpng1643\pngset.c(535) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngpread.c(70): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngpread.c(69) : 注意: 在此行上通过对比检查索引 "remaining" 范围
+  D:\code_projs\cpp\library\lpng1643\pngpread.c(70) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(841): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(840) : 注意: 在此行上通过对比检查索引 "scrn_gamma" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(841) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(838): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(837) : 注意: 在此行上通过对比检查索引 "file_gamma" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(838) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(362): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(308) : 注意: 在此行上通过对比检查索引 "output_gamma" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(362) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(314): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(308) : 注意: 在此行上通过对比检查索引 "output_gamma" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(314) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1566): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1549) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1566) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1550): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1549) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1550) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1798): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1796) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1798) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1780): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1778) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1780) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(754): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(631) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(754) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1225): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1208) : 注意: 在此行上通过对比检查索引 "ep" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1225) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1216): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1208) : 注意: 在此行上通过对比检查索引 "ep" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1216) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(482): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(479) : 注意: 在此行上通过对比检查索引 "j" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(482) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(4612): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(4600) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(4612) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1717): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1656) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1717) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1715): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1656) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1715) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1712): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1656) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1712) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1697): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1696) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1697) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1691): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1656) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1691) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1690): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1656) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1690) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1172): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1155) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1172) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1164): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1155) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1164) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1163): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1155) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1163) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2913): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2912) : 注意: 在此行上通过对比检查索引 "length" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2913) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2905): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2902) : 注意: 在此行上通过对比检查索引 "length" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2905) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2897): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2883) : 注意: 在此行上通过对比检查索引 "length" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2897) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2092): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2072) : 注意: 在此行上通过对比检查索引 "length" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2092) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2461): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2441) : 注意: 在此行上通过对比检查索引 "length" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2461) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2082): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2072) : 注意: 在此行上通过对比检查索引 "length" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2082) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2055): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2046) : 注意: 在此行上通过对比检查索引 "length" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2055) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2048): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2046) : 注意: 在此行上通过对比检查索引 "length" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2048) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2453): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2441) : 注意: 在此行上通过对比检查索引 "length" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2453) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2404): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2402) : 注意: 在此行上通过对比检查索引 "length" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2404) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(1946): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1945) : 注意: 在此行上通过对比检查索引 "num_trans" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1946) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(1895): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1884) : 注意: 在此行上通过对比检查索引 "channels" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1895) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(1869): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1839) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1895) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(1890): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1884) : 注意: 在此行上通过对比检查索引 "channels" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1890) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(1863): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1852) : 注意: 在此行上通过对比检查索引 "channels" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1863) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(1858): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1852) : 注意: 在此行上通过对比检查索引 "channels" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1858) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\png.c(2385): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(2311) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(2385) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(2355): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(2311) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(2355) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(2342): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(2311) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(2342) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngset.c(1232): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngset.c(1198) : 注意: 在此行上通过对比检查索引 "num_unknowns" 范围
+  D:\code_projs\cpp\library\lpng1643\pngset.c(1232) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngset.c(1074): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngset.c(1068) : 注意: 在此行上通过对比检查索引 "nentries" 范围
+  D:\code_projs\cpp\library\lpng1643\pngset.c(1074) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngset.c(399): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngset.c(397) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngset.c(403) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngset.c(350): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngset.c(339) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngset.c(350) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngset.c(341): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngset.c(339) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngset.c(341) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngset.c(799): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngset.c(785) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngset.c(799) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1617): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1597) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1617) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1605): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1597) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1605) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1604): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1597) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1604) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(67): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(34) : 注意: 在此行上通过对比检查索引 "up" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(67) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(42): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(34) : 注意: 在此行上通过对比检查索引 "up" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(42) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(1126): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(1109) : 注意: 在此行上通过对比检查索引 "gAMA" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(1126) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(1953): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(1952) : 注意: 在此行上通过对比检查索引 "profile_length" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(1953) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2994): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2972) : 注意: 在此行上通过对比检查索引 "ret" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2994) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2973): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2972) : 注意: 在此行上通过对比检查索引 "ret" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2973) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(2142): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(2113) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(2142) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(2124): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(2113) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(2124) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(2134): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(2113) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(2134) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(2032): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(2031) : 注意: 在此行上通过对比检查索引 "temp" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(2032) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(2025): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(2024) : 注意: 在此行上通过对比检查索引 "temp" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(2025) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(1712): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(1682) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(1712) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(1704): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(1684) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(1705) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(1833): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(1829) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(1833) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(1740): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(1738) : 注意: 在此行上通过对比检查索引 "dl" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(1740) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(2937): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2902) : 注意: 在此行上通过对比检查索引 "cmap_entries" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2937) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(2240): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2221) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2240) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(2228): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2221) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2228) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(2861): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2834) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2861) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(2861): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2861) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2861) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(2847): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2836) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2847) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(2839): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2836) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2839) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(2762): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2754) : 注意: 在此行上通过对比检查索引 "r" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2762) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(2693): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2681) : 注意: 在此行上通过对比检查索引 "r" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2693) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(2502): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2446) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2502) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(2449): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2446) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(2449) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(434): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(392) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(434) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(421): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(392) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(421) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(401): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(392) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(401) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2369): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2348) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2369) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2360): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2348) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2360) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2304): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2302) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2304) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2673): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2658) : 注意: 在此行上通过对比检查索引 "length" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2673) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(2818): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2809) : 注意: 在此行上通过对比检查索引 "length" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(2818) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\png.c(1975): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\png.c(1973) : 注意: 在此行上通过对比检查索引 "profile_length" 范围
+  D:\code_projs\cpp\library\lpng1643\png.c(1975) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(3864): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3807) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3867) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(3858): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3807) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3858) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(3850): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3807) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3850) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(3824): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3807) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3824) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(3765): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3732) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3767) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(3685): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3654) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3685) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(3680): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3654) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3685) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(3663): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3654) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3663) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(3623): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3606) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3626) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(3556): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3520) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3556) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngrtran.c(3436): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3419) : 注意: 在此行上通过对比检查索引 "row_width" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrtran.c(3436) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(337): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(294) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(337) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(324): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(294) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(324) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(303): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(294) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(303) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(289): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(288) : 注意: 在此行上通过对比检查索引 "i" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(289) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(235): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(211) : 注意: 在此行上通过对比检查索引 "h" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(235) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngrutil.c(1547): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(1441) : 注意: 在此行上通过对比检查索引 "" 范围
+  D:\code_projs\cpp\library\lpng1643\pngrutil.c(1547) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1053): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1052) : 注意: 在此行上通过对比检查索引 "size" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1053) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(1006): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1005) : 注意: 在此行上通过对比检查索引 "size" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(1006) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(3335): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3301) : 注意: 在此行上通过对比检查索引 "passes" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3371) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngread.c(3362): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3349) : 注意: 在此行上通过对比检查索引 "c" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3362) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngread.c(3532): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3530) : 注意: 在此行上通过对比检查索引 "height" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3548) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngread.c(3527): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3459) : 注意: 在此行上通过对比检查索引 "passes" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3528) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngread.c(3512): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3497) : 注意: 在此行上通过对比检查索引 "outrow" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3512) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngread.c(3487): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3485) : 注意: 在此行上通过对比检查索引 "height" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3503) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngread.c(3630): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3621) : 注意: 在此行上通过对比检查索引 "height" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3638) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngread.c(757): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(752) : 注意: 在此行上通过对比检查索引 "pass" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(757) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(3010): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3008) : 注意: 在此行上通过对比检查索引 "y" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3119) : 注意: 此行上的源内存负载
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(2729): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(2727) : 注意: 在此行上通过对比检查索引 "sum" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(2739) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(2704): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(2701) : 注意: 在此行上通过对比检查索引 "sum" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(2739) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(2678): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(2675) : 注意: 在此行上通过对比检查索引 "sum" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(2739) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(4101): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(4094) : 注意: 在此行上通过对比检查索引 "passes" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(4101) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwutil.c(2652): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(2649) : 注意: 在此行上通过对比检查索引 "sum" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwutil.c(2739) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(3260): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3253) : 注意: 在此行上通过对比检查索引 "passes" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3260) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngread.c(3256): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3253) : 注意: 在此行上通过对比检查索引 "passes" 范围
+  D:\code_projs\cpp\library\lpng1643\pngread.c(3260) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(641): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(636) : 注意: 在此行上通过对比检查索引 "num_pass" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(641) : 注意: 此行上的源调用
+D:\code_projs\cpp\library\lpng1643\pngwrite.c(1751): warning C5045: 如果指定了 /Qspectre 开关，编译器会插入内存负载的 Spectre 缓解
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1749) : 注意: 在此行上通过对比检查索引 "row_end" 范围
+  D:\code_projs\cpp\library\lpng1643\pngwrite.c(1764) : 注意: 此行上的源调用
+  All 518 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  libpng.vcxproj -> D:\code_projs\cpp\library\lpng1643\projects\vstudio\Debug\libpng16.dll

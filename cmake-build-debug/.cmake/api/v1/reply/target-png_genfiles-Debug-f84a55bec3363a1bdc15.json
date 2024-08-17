@@ -1,0 +1,35 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"library/lpng1643/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 371,
+				"parent" : 0
+			}
+		]
+	},
+	"id" : "png_genfiles::@bb3d2b26d70227a0a9de",
+	"name" : "png_genfiles",
+	"paths" : 
+	{
+		"build" : "output/lpng",
+		"source" : "library/lpng1643"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

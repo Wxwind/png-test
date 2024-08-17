@@ -1,0 +1,119 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"library/zlib-1.3.1/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 182,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 188,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 191,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 194,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "C:/Program Files (x86)/pngtest/lib",
+			"paths" : 
+			[
+				"output/zlib/libzlib.dll.a"
+			],
+			"targetId" : "zlib::@4789504a40af31098c6e",
+			"targetIndex" : 15,
+			"targetIsImportLibrary" : true,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "C:/Program Files (x86)/pngtest/bin",
+			"paths" : 
+			[
+				"output/zlib/libzlib.dll"
+			],
+			"targetId" : "zlib::@4789504a40af31098c6e",
+			"targetIndex" : 15,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "C:/Program Files (x86)/pngtest/lib",
+			"paths" : 
+			[
+				"output/zlib/libzlibstatic.a"
+			],
+			"targetId" : "zlibstatic::@4789504a40af31098c6e",
+			"targetIndex" : 16,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "C:/Program Files (x86)/pngtest/include",
+			"paths" : 
+			[
+				"cmake-build-debug/output/zlib/zconf.h",
+				"library/zlib-1.3.1/zlib.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "C:/Program Files (x86)/pngtest/share/man/man3",
+			"paths" : 
+			[
+				"library/zlib-1.3.1/zlib.3"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "C:/Program Files (x86)/pngtest/share/pkgconfig",
+			"paths" : 
+			[
+				"cmake-build-debug/output/zlib/zlib.pc"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "output/zlib",
+		"source" : "library/zlib-1.3.1"
+	}
+}
